@@ -2052,7 +2052,6 @@ export const blacklist = [
     'tanyaagrawal1006',
     'Gaurav1309Goel',
     'vidurathegeek',
-    'wolfsoldier47',
     'bhaskar24',
     'thedutchruben',
     'Qoyyuum',
